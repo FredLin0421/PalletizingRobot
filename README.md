@@ -4,13 +4,13 @@
 - Can handle up to 1000 kg
 - Can minimize the uses of the space
 - High precision control and cycle time
-### Mechanical Design
+## Mechanical Design
 We first design the mechanism of the entire robot system, including the frames, robot arms, and gripper.
 <p align="center">
    <img src="https://github.com/FredLin0421/PalletizingRobot/blob/master/images/palletizing.jpg" width="428" height="500" /> 
 </p>
 
-### Mechatronic System
+## Mechatronic System
 The mechatronic system consist of 4 AC servo motors, 4 reducers, controller, pneumatic gripper, transformer, etc.  
 <p align="center">
    <img src="https://github.com/FredLin0421/PalletizingRobot/blob/master/images/received_1286747458021128.jpeg" width="428" height="500" /> 
