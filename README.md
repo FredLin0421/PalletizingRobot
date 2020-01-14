@@ -5,7 +5,9 @@
 - Can minimize the uses of the space
 - High precision control and cycle time
 ### Mechanical Design
-![text](https://github.com/FredLin0421/PalletizingRobot/blob/master/images/palletizing.jpg)
+<p align="center">
+   <img src="https://github.com/FredLin0421/PalletizingRobot/blob/master/images/palletizing.jpg" width="428" height="500" /> 
+</p>
 
 ### Mechatronic System
 The mechatronic system including the AC servo motor, pneumatic system, power supply, controller,etc.
